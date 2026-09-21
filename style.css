@@ -1,10 +1,10 @@
-/* background set to purple per issue #10 */
+/* background set to yellow per issue #16 */
 body {
   margin: 0;
   min-height: 100vh;
   display: grid;
   place-items: center;
-  background-color: purple;
-  color: white;
+  background-color: yellow;
+  color: black;
   font-family: sans-serif;
 }
