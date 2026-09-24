@@ -1,10 +1,10 @@
-/* background set to purple per issue #10 */
+/* background set to green per issue #22 */
 body {
   margin: 0;
   min-height: 100vh;
   display: grid;
   place-items: center;
-  background-color: blue;
+  background-color: green;
   color: white;
   font-family: sans-serif;
 }
